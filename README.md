@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Santos Lino</h1>
 <h3 align="center">A passionate frontend developer/designer from Brasil</h3>
 
-- 🔭 I’m currently working on [SP Medical Group (School Project)](https://github.com/fe-lino/Projeto-SP-Medical-Group)
-
+- 🔭 I’m currently working on [Art Studio] (https://github.com/fe-lino/Projetos-Pessoais/tree/main/Art%20Studio%20-%20Estudo)
 - 🌱 I’m currently learning **React-Native**
 
 - 💬 Ask me about **frontend (HTML, CSS, JS)**
