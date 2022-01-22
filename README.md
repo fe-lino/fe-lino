@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Art Studio](https://github.com/fe-lino/Projetos-Pessoais.git)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning and Ruby**
 
 - 💬 Ask me about **Front-End (HTML, CSS, JS, some React)**
 
